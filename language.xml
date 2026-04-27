@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <language version="1.0" htmlParse="true">
+;
+
+        <!-- misc -->
+        <item id="btnContinue">Continuar...</item>
+        <item id="btnclose">Cerrar</item>
+        <item id="btnHelp">Ayuda!</item>
+        <item id="btnAgreement">De acuerdo</item>
+        <item id="btnNeutral">Neutral</item>
+        <item id="btnDisagreement">Desacuerdo</item>
+        <item id="btnTransfer">Enviar</item>
+        <item id="btnExit">Salir</item>
+        <item id="selectItem">Seleccionar...</item>
+        
+        <!-- Warning when user is trying to leave the page (this item was added for HtmlQ) -->
+        <item id="leaveSiteWarning">Tu respuesta no fue guardada</item>
+
+        <!-- HtmlQ only: In-App Back Button -->
+        <item id="backButton">Volver</item>
+        <item id="fillInRequiredFields">Completa todos los campos</item>
+
+        <!-- errors -->
+        <item id="errorHead">Error!</item>
+        <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
+
+        <!-- welcome screen (leave blank to skip screen) -->
+        <item id="welcomeHead">¡Hola!</item>
+        <item id="welcomeText">Este es un ejercicio práctico diseñado para el curso "Herramientas Participativas y Multiactorales" del INECOL. El objetivo es explorar la percepción social y académica sobre la compleja problemática de los hipopótamos en Colombia mediante la Metodología Q.
+
+Los datos recolectados serán analizados colectivamente durante la sesión de clase para profundizar en el uso técnico de la herramienta, la interpretación de discursos (factores) y su utilidad en la gestión de conflictos socioambientales.
+
+Instrucciones Técnicas:
+
+Para realizar este ejercicio, ¡necesitas el mayor espacio posible en tu pantalla!
+
+Si es necesario, por favor MAXIMIZA la ventana de tu navegador.</item>
+
+        <!-- user login, only displayed if access is restricted (see config-file) -->
+        <item id="loginHead">Access Code</item>
+        <item id="loginText">Please enter the access code for this survey.</item>
+        <item id="loginFormHeader">Access Code</item>
+        <item id="loginPartIdText">Nombre</item>
+        <item id="loginNoInput">Please enter the access code.</item>
+        <item id="loginInvalidInput">Access code invalid</item>
+        <item id="loginNoConnection">Connection to server failed. Please try again.</item>
+
+        <!-- introduction (leave blank to skip popup) -->
+        <item id="introHead">Introducción</item>
+        <item id="introText">¿Qué hacer con los hipopótamos en Colombia?</item>
+
+        <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
+        <item id="step1Head">Paso 1 de 5</item>
+        <item id="step1Text">Lee cuidadosamente las siguientes afirmaciones y divídelas en tres grupos: un grupo para las afirmaciones con las que tiendes a estar en desacuerdo, un grupo para las que tiendes a estar de acuerdo, y un grupo para el resto.{br}{br}Puedes arrastrar las tarjetas a uno de los tres grupos o {b}presionar 1, 2, 3{/b} en tu teclado. Podrás realizar cambios más adelante.{br}{br}Si deseas leer estas instrucciones nuevamente, presiona el botón de ayuda en la esquina inferior izquierda.</item>
+
+        <!-- step2: sorting (leave blank to skip popup) -->
+        <item id="step2Head">Paso 2 de 5</item>
+        <item id="step2Text">Toma las tarjetas del grupo "DE ACUERDO" y organízalas en el lado derecho del tablero de puntuación.{br}{br}A continuación, toma las tarjetas del grupo "EN DESACUERDO" y colócalas en el lado izquierdo del tablero. Sigue este procedimiento con todas las tarjetas de los grupos "DE ACUERDO" y "EN DESACUERDO".{br}{br}Finalmente, toma las tarjetas "NEUTRALES" y colócalas en los espacios vacíos restantes del tablero de puntuación.</item>
+        <item id="step2CondOfInstruc">Give condition of instruction here</item>
+        <item id="step2TextSizeLabel">Text</item>
+        
+
+        <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
+        <item id="step3Head">Paso 3 de 5</item>
+        <item id="step3Text">Ahora has colocado todas las tarjetas en el tablero de puntuación. Por favor, revisa tu distribución una vez más y cambia la posición de las tarjetas si así lo deseas.</item>
+        <item id="step3CondOfInstruc">Give condition of instruction here</item>
+
+        <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
+        <item id="step4Head">Paso 4 de 5</item>
+        <item id="step4Text">Por favor, explica brevemente por qué estás más de acuerdo o más en desacuerdo con las afirmaciones que has colocado bajo las columnas "+4" o "-4".</item>
+
+        <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
+        <item id="step5Head">Step 5 of 5</item>
+        <item id="step5Text">Finally, please answer the following questions regarding your background.</item>
+
+        <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
+        <item id="transferHead">Enviar información</item>
+        <item id="transferText">Haz finalizado. Por favor envía la información</item>
+        <item id="transferFailed">El envío ha fallado. Inténtalo de nuevo</item>
+        <item id="transferOk">Gracias por tu participación.</item>   
+   </language>
