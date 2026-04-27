@@ -27,7 +27,7 @@
 
         <!-- welcome screen (leave blank to skip screen) -->
         <item id="welcomeHead">¡Hola!</item>
-        <item id="welcomeText">Este es un ejercicio práctico diseñado para el curso "Herramientas Participativas y Multiactorales" del INECOL.
+        <item id="welcomeText">Este es un ejercicio práctico diseñado para el curso {b}"Herramientas Participativas y Multiactorales"{/b} del INECOL.
 
 {br}{br}El objetivo es explorar la percepción social y académica sobre la compleja problemática de los {b}hipopótamos en Colombia{/b} mediante la Metodología Q.
 
@@ -44,27 +44,29 @@
 
         <!-- introduction (leave blank to skip popup) -->
         <item id="introHead">¿Qué hacer con los hipopótamos en Colombia?</item>
-        <item id="introText">Los datos recolectados serán analizados colectivamente durante la sesión de clase para profundizar en el uso técnico de la herramienta, la interpretación de discursos (factores) y su utilidad en la gestión de conflictos socioambientales.
+        <item id="introText">Los datos recolectados {b}serán analizados colectivamente{/b} durante la sesión de clase para profundizar en el uso técnico de la herramienta, la interpretación de discursos (factores) y su utilidad en la gestión de conflictos socioambientales.
 
-{br}{br}Instrucciones Técnicas:
+{br}{br}{b}Instrucciones Técnicas:{/b}
 
 {br}{br}Para realizar este ejercicio, ¡necesitas el mayor espacio posible en tu pantalla!
 
-{br}{br}Si es necesario, por favor MAXIMIZA la ventana de tu navegador.</item>
+{br}{br}Si es necesario, por favor {b}MAXIMIZA{/b} la ventana de tu navegador.</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Paso 1  de 3</item>
-        <item id="step1Text">Lee cuidadosamente las siguientes afirmaciones y divídelas en tres grupos: un grupo para las afirmaciones con las estás en desacuerdo, un grupo para las que estás de acuerdo, y un grupo para el resto. {br}{br}Puedes {b}arrastrar{/b} las tarjetas a uno de los tres grupos o {b}presionar{/b} 1, 2, 3 en tu teclado. Podrás realizar cambios más adelante.
+        <item id="step1Text">{b}Lee cuidadosamente{/b} las siguientes afirmaciones y divídelas en tres grupos: un grupo para las afirmaciones con las estás en {b}desacuerdo{/b}, otro grupo con las que estás {b}de acuerdo{/b}, y un tercer grupo para el resto. 
 
-{br}{br}Si deseas leer estas instrucciones nuevamente, presiona el botón de ayuda en la esquina inferior izquierda.</item>
+{br}{br}Puedes {b}arrastrar{/b} las tarjetas a uno de los tres grupos o {b}presionar{/b} 1, 2, 3 en tu teclado. Podrás realizar cambios más adelante.
+
+{br}{br}Si deseas leer estas instrucciones nuevamente, presiona el botón de {b}ayuda{/b} en la esquina inferior derecha.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
         <item id="step2Head">Paso 2 de 3</item>
-        <item id="step2Text">Toma las tarjetas del grupo {b}"DE ACUERDO"{/b} y organízalas en el lado derecho del tablero de puntuación.
+        <item id="step2Text">Toma las tarjetas del grupo {b}"DE ACUERDO"{/b} y organízalas en el lado derecho del tablero de puntuación. En el extremo, debes ubicar la afirmación con la que estás {b}100% de acuerdo{/b}.
 
-{br}{br}A continuación, toma las tarjetas del grupo {b}"EN DESACUERDO"{/b} y colócalas en el lado izquierdo del tablero. 
+{br}{br}A continuación, toma las tarjetas del grupo {b}"EN DESACUERDO"{/b} y colócalas en el lado izquierdo del tablero. En el extremo, debes ubicar la afirmación con la que estás {b}100% en desacuerdo{/b}. 
 
-{br}{br}Sigue este procedimiento con todas las tarjetas de los grupos "DE ACUERDO" y "EN DESACUERDO".{br}{br}Finalmente, toma las tarjetas "NEUTRALES" y colócalas en los espacios vacíos restantes del tablero de puntuación.</item>
+{br}{br}Finalmente, toma las tarjetas "NEUTRALES" y colócalas en los espacios vacíos restantes del tablero de puntuación.</item>
         <item id="step2CondOfInstruc">En los extremos deben estar las frases con las que estás 100% de acuerdo o desacuerdo.</item>
         <item id="step2TextSizeLabel">Tamaño del texto</item>
         
