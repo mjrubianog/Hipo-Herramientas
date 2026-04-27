@@ -51,23 +51,23 @@ Si es necesario, por favor MAXIMIZA la ventana de tu navegador.</item>
         <item id="introText">¿Qué hacer con los hipopótamos en Colombia?</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
-        <item id="step1Head">Paso 1 de 5</item>
+        <item id="step1Head">Paso 1 de 4</item>
         <item id="step1Text">Lee cuidadosamente las siguientes afirmaciones y divídelas en tres grupos: un grupo para las afirmaciones con las que tiendes a estar en desacuerdo, un grupo para las que tiendes a estar de acuerdo, y un grupo para el resto.{br}{br}Puedes arrastrar las tarjetas a uno de los tres grupos o {b}presionar 1, 2, 3{/b} en tu teclado. Podrás realizar cambios más adelante.{br}{br}Si deseas leer estas instrucciones nuevamente, presiona el botón de ayuda en la esquina inferior izquierda.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
-        <item id="step2Head">Paso 2 de 5</item>
+        <item id="step2Head">Paso 2 de 4</item>
         <item id="step2Text">Toma las tarjetas del grupo "DE ACUERDO" y organízalas en el lado derecho del tablero de puntuación.{br}{br}A continuación, toma las tarjetas del grupo "EN DESACUERDO" y colócalas en el lado izquierdo del tablero. Sigue este procedimiento con todas las tarjetas de los grupos "DE ACUERDO" y "EN DESACUERDO".{br}{br}Finalmente, toma las tarjetas "NEUTRALES" y colócalas en los espacios vacíos restantes del tablero de puntuación.</item>
         <item id="step2CondOfInstruc">Give condition of instruction here</item>
         <item id="step2TextSizeLabel">Text</item>
         
 
         <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
-        <item id="step3Head">Paso 3 de 5</item>
+        <item id="step3Head">Paso 3 de 4</item>
         <item id="step3Text">Ahora has colocado todas las tarjetas en el tablero de puntuación. Por favor, revisa tu distribución una vez más y cambia la posición de las tarjetas si así lo deseas.</item>
         <item id="step3CondOfInstruc">Give condition of instruction here</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
-        <item id="step4Head">Paso 4 de 5</item>
+        <item id="step4Head">Paso 4 de 4</item>
         <item id="step4Text">Por favor, explica brevemente por qué estás más de acuerdo o más en desacuerdo con las afirmaciones que has colocado bajo las columnas "+4" o "-4".</item>
 
         <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
