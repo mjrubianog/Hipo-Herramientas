@@ -27,9 +27,9 @@
 
         <!-- welcome screen (leave blank to skip screen) -->
         <item id="welcomeHead">¡Hola!</item>
-        <item id="welcomeText">Este es un ejercicio práctico diseñado para el curso "Herramientas Participativas y Multiactorales" del INECOL. 
+        <item id="welcomeText">Este es un ejercicio práctico diseñado para el curso "Herramientas Participativas y Multiactorales" del INECOL.
 
-{br}{br}.El objetivo es explorar la percepción social y académica sobre la compleja problemática de los {b}hipopótamos en Colombia mediante la Metodología Q.
+{br}{br}El objetivo es explorar la percepción social y académica sobre la compleja problemática de los {b}hipopótamos en Colombia{/b} mediante la Metodología Q.
 
 </item>
 
